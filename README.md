@@ -29,11 +29,12 @@ SVG source versions can be added for infinite scalability.
 
 ## Licensing
 
-Proprietary IP of AlphaProMega Media Inc.  
+**Fully proprietary.** All rights reserved by AlphaProMega Media Inc.  
 See [LICENSE.md](LICENSE.md).
 
-Personal, educational, and research use is free.  
-Commercial use requires contact: **info@Rathor.ai**
+No use, reproduction, or distribution is permitted without prior written permission.
+
+**Contact for any authorization:** info@Rathor.ai
 
 ## Alignment
 
