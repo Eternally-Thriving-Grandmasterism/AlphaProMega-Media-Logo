@@ -2,33 +2,29 @@
 
 Copyright (c) 2026 AlphaProMega Media Inc. All rights reserved.
 
-**Official Brand Assets** for AlphaProMega Media Inc.
+**Fully Proprietary Brand Assets**
 
-## Usage Terms
+These logo assets, including the Eternal Alpha Signal mark, all variations, color systems, and related files, are the exclusive intellectual property of AlphaProMega Media Inc.
 
-These logo assets are proprietary intellectual property of AlphaProMega Media Inc.
+## All Rights Reserved
 
-### Permitted Use
-- Personal, educational, research, and light non-commercial use is free.
-- Official use by AlphaProMega Media Inc., Autonomicity Games Inc., Ra-Thor related projects, and affiliated entities.
+No license is granted for any use, reproduction, modification, distribution, or display of these assets without the prior written permission of AlphaProMega Media Inc.
 
-### Commercial / Revenue-Generating Use
-Commercial use, redistribution as a brand, or incorporation into products/services that generate revenue requires a paid license.
+### Prohibited Without Written Permission
+- Personal, educational, research, commercial, or any other use
+- Reproduction in any medium
+- Modification or derivative works
+- Redistribution or sublicensing
+- Use that implies endorsement or affiliation
 
-Contact: **info@Rathor.ai**
+### Authorized Use
+Use is limited to AlphaProMega Media Inc. and entities expressly authorized in writing by the company.
 
-### Attribution
-When used publicly in permitted contexts, credit "AlphaProMega Media Inc." where practical.
+**All inquiries for permission or licensing must be directed to:**  
+**info@Rathor.ai**
 
-### Prohibited
-- Modification of the core mark that distorts its identity without approval.
-- Use that implies endorsement of unrelated products without permission.
-- Competing or confusingly similar marks.
-
-Aligned with the Autonomicity Games Sovereign Mercy License (AG-SML) philosophy: free for life-serving personal and educational use; commercial paths via contact.
-
-**Canonical contact for all licensing inquiries:** info@Rathor.ai
+Unauthorized use may result in legal action.
 
 ---
 
-*Living under TOLC guidance. Mercy first.*
+*Official brand identity of AlphaProMega Media Inc.*
