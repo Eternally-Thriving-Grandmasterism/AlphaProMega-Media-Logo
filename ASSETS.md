@@ -4,7 +4,7 @@
 
 - `assets/alpha-symbol.svg` — Scalable vector symbol mark (Eternal Alpha Signal)
 - `COLORS.md` — Locked color system with alpha values
-- `LICENSE.md` — Proprietary licensing terms
+- `LICENSE.md` — Fully proprietary licensing terms (all rights reserved)
 
 ## Raster Versions (derived from approved generations)
 
@@ -19,7 +19,9 @@ These can be added as PNG files in `assets/` as needed.
 
 ## Usage
 
-Use the SVG for all scalable applications.  
+These assets are fully proprietary. All rights reserved by AlphaProMega Media Inc.
+
+Use the SVG for scalable applications only with written authorization.  
 Reference the color codes for consistent implementation across web, print, and social.
 
-**Contact for official high-resolution masters or commercial licensing:** info@Rathor.ai
+**Contact for official high-resolution masters or any authorization:** info@Rathor.ai
